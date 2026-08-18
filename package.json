@@ -1,0 +1,20 @@
+{
+  "name": "interactive-resume",
+  "version": "1.0.0",
+  "description": "Interactive, responsive developer resume and career portfolio with dynamic timeline filtering and canvas effects.",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js",
+    "serve": "node serve.js",
+    "dev": "node serve.js"
+  },
+  "keywords": [
+    "resume",
+    "portfolio",
+    "interactive-resume",
+    "vanilla-js",
+    "career-timeline"
+  ],
+  "author": "Rodrigo Matias",
+  "license": "MIT"
+}
