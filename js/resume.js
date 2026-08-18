@@ -35,7 +35,7 @@ export class ResumeApp {
   }
 
   /**
-   * Called by app.js when the Resume tab is clicked and displayed
+   * Initializes interactive components when the Resume page is active
    */
   onTabActivated() {
     if (this.isActive) return;
@@ -582,7 +582,7 @@ export class ResumeApp {
   }
 
   _initCursorGlow() {
-    const cards = document.querySelectorAll('.resume-card, .theme-toggle-btn');
+    const cards = document.querySelectorAll('.resume-card');
     cards.forEach(card => {
       card.addEventListener('mousemove', (e) => {
         const rect = card.getBoundingClientRect();
