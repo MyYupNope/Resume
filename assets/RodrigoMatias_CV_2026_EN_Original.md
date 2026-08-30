@@ -2,7 +2,7 @@
 Lisboa, Portugal • (+351) 91 279 93 83
 rodrigo.gc.matias@gmail.com • https://www.linkedin.com/in/rodrigo-gc-matias/
 
-**IT Business Partner | Digital Transformation Lead | Service Delivery Manager | Generative AI & Process Automation | Project Manager | Innovation Catalyst**
+**IT Business Partner | Digital Transformation Lead | Service Delivery Manager | Generative AI & Process Automation | Project Delivery | Innovation Catalyst**
 
 ## SUMMARY
 Accomplished IT leader with extensive experience in digital transformation, service delivery, and project management, primarily within the healthcare and medical devices industries. 
@@ -19,7 +19,7 @@ My approach emphasizes open communication, mutual respect, and a shared commitme
 
 I am passionate about continuous learning as a way to stay ahead of emerging technologies and improve my skills, bringing a hands-on exploration, “can-do” attitude to business opportunities and challenges, fostering a culture of innovation and high-performance teams and organizations.
 
-I am now seeking a new challenge where I can leverage my deep industry knowledge, strategic vision, and hands-on expertise to lead a company's next wave of digital evolution.
+I am now seeking a new challenge where I can leverage my deep industry knowledge, strategic vision, and hands-on expertise to lead a company's next wave of digital evolution. 
 
 
 ## STRENGTHS & SKILLS
@@ -33,6 +33,20 @@ I am now seeking a new challenge where I can leverage my deep industry knowledge
 * **Skills:** #Stakeholder Engagement and Communication, #Strategic Planning and Execution, #Solution/Service Management, #Software Development Lifecycle Management, #Project Management, #Agile/Scrum/Kanban and Waterfall Practitioner, #Team Leadership/Collaboration, #Problem Solving, #Solution Design/Developer/Implementer/Supporter, #Change Management, #Data & Analytics, #Data-Driven Decision Making, #Robotic Process Automation (RPA), #AI Exploration, #Innovation Catalyst
 
 ## EXPERIENCE
+
+### Looking For A New Challenge
+**Independent Technology Initiatives & AI Prototyping**
+* Architecting and deploying end-to-end autonomous workflows, full-stack web platforms, and LLM-driven business tooling to evaluate emerging agentic paradigms and optimize operational efficiency.  
+
+**Main Achievements:**
+* Opportunity Tracker | Application Lifecycle & Process Automation Platform
+  * Interactive Frontend: Built a responsive Next.js and Tailwind CSS single-page application (SPA) featuring Kanban-style pipeline tracking, filtering systems, YTD/weekly performance analytics dashboards, and local state management via IndexedDB, with offline/online status management.
+  * Workflow Orchestration & Agentic Logic: Engineered event-driven backend workflows using n8n to automate CRUD operations, bidirectional data synchronization with Google Workspace APIs (Drive/Sheets), and contextual agentic AI routing.
+  * LLM Integration & Benchmarking: Implemented multi-model API access through OpenRouter, applying ArtificialAnalysis.ai metrics for latency, cost tracking, and model evaluation & selection.
+  * DevOps & Infrastructure: Containerized the solution using Docker, established secure private networking via Tailscale, and implemented Git/GitHub CI/CD deployment pipelines. Accelerated development cycles utilizing agentic IDEs (Google Antigravity, OpenCode).
+  * Tech Stack: Next.js, Tailwind CSS, TypeScript, n8n, Docker, Google Workspace, Tailscale, OpenRouter, Git, GitHub Actions & Pages, IndexedDB.
+* Kinetics: an art project towards evaluating web development cycles and explore agentic IDEs 
+  * Engineered an interactive visual computing project to evaluate modern frontend performance and benchmark developer velocity across next-generation agentic coding environments.
 
 ### Johnson & Johnson - Medical Devices, Portugal
 **IT Lead / Project Manager, Global Education & Omnichannel Product Lines EMEA** | *06/2023 - 12/2024*
